@@ -1,10 +1,6 @@
 <p align="center"><em style="color:#9CA3AF">⚠️ Este perfil foi desenvolvido para melhor visualização no tema escuro do GitHub.</em></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&height=220&text=Jo%C3%A3o%20-%20Dev%20Full%20Stack&fontColor=E5E7EB&fontAlign=50&fontAlignY=40&desc=FastAPI%20%7C%20Next.js%20%7C%20PostgreSQL&descColor=9CA3AF&descAlign=50&descAlignY=65&color=0:020617,100:020617" /></p>
 <!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Jo%C3%A3o%20-%20Dev%20Full%20Stack&fontColor=F9FAFB&fontAlign=50&fontAlignY=42&desc=FastAPI%20%7C%20Next.js%20%7C%20PostgreSQL&descColor=D1D5DB&descAlign=50&descAlignY=65&color=0:020617,100:020617&animation=fadeIn" />
-</p>
-
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&height=220&text=Jo%C3%A3o%20-%20Dev%20Full%20Stack&fontColor=F9FAFB&fontAlign=50&fontAlignY=40&desc=FastAPI%20%7C%20Next.js%20%7C%20PostgreSQL&descColor=D1D5DB&descAlign=50&descAlignY=65&color=0:020617,100:020617" /></p>
 <!-- ===================== TYPING EFFECT ===================== -->
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=E5E7EB&center=true&vCenter=true&width=900&lines=Construindo+projetos+reais;Evolu%C3%A7%C3%A3o+constante;Foco+em+c%C3%B3digo+limpo;Aprendendo+todos+os+dias" /></p>
 
