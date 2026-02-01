@@ -1,7 +1,10 @@
-<p align="center"><em style="color:#9CA3AF">⚠️ Este perfil foi desenvolvido para melhor visualização no tema escuro do GitHub.</em></p>
+<p align="center"><em>Melhor visualização no tema escuro do GitHub</em></p>
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=240&text=Jo%C3%A3o%20-%20Dev%20Full%20Stack&fontColor=F9FAFB&fontAlign=50&fontAlignY=42&desc=FastAPI%20%7C%20Next.js%20%7C%20PostgreSQL&descColor=D1D5DB&descAlign=50&descAlignY=65&color=0:020617,100:020617&animation=fadeIn" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=CACACA&text=DEV%20FULL%20STACK&textBg=false&reversal=false&desc=FastAPI%20%7C%20Next.js%20%7C%20PostgreSQL"
+  />
 </p>
 <!-- ===================== TYPING EFFECT ===================== -->
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=E5E7EB&center=true&vCenter=true&width=900&lines=Construindo+projetos+reais;Evolu%C3%A7%C3%A3o+constante;Foco+em+c%C3%B3digo+limpo;Aprendendo+todos+os+dias" /></p>
@@ -17,18 +20,20 @@
 
 ---
 
-## 🖥️ Meu Setup
+```zsh
+> Johnsouto
+```
+<a href="#"><img align="left" src="https://i.imgur.com/s4fYF0D.jpeg" width="140"/></a>
 
-```yaml
-Notebook: Acer Nitro 5 (AN515-55)
+```lua
+Johnsouto@GitHub
+▔▔▔▔▔▔▔▔
 OS: Windows 11 x64
+Notebook: Acer Nitro 5 (AN515-55)
 CPU: Intel Core i5-10300H @ 2.50GHz
 GPU: NVIDIA GeForce GTX 1650 Ti
-RAM: 16GB
-Theme: Dark Mode
-
+RAM: 16GB DDR4
 ```
-
 ---
 
 ## 🧰 Tech Stack
@@ -66,7 +71,8 @@ Theme: Dark Mode
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=F9FAFB,D1D5DB" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=CACACA&textBg=false&reversal=false&section=footer"
+  />
 </p>
-
-
