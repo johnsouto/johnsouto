@@ -45,9 +45,9 @@ RAM: 16GB DDR4
 
 ## 📌 Projetos em destaque
 
-- 🔹 **Sistema de Login e Cadastro (Python + MySQL)**  
-  Auth, rotas protegidas, hash de senha, painel restrito  
-  🔗 https://github.com/SEU_USERNAME/nome-do-repo
+- 🔹 **Elemento Juris (SaaS Multi-Tenant + Python/FastAPI + PostgreSQL)**
+Sistema jurídico com autenticação, gestão de usuários e funcionalidades voltadas para advogados
+🔗 https://elementojuris.cloud
 
 - 🔹 **CRUD Administrativo (PHP + MySQL)**  
   Create/Read/Update/Delete + filtros + paginação  
