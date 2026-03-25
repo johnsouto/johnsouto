@@ -47,6 +47,7 @@ RAM: 16GB DDR4
 
 - 🔹 **Elemento Juris (SaaS Multi-Tenant + Python/FastAPI + PostgreSQL)**
   Software jurídico com autenticação, gestão de usuários e funcionalidades voltadas para advogados
+  
   🔗 https://elementojuris.cloud
 
 - 🔹 **CRUD Administrativo (PHP + MySQL)**  
